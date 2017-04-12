@@ -8,22 +8,36 @@
 
 /* Begin PBXBuildFile section */
 		BD29ED6B1E9E637B00094141 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD29ED6A1E9E637B00094141 /* AppDelegate.swift */; };
-		BD29ED6D1E9E637B00094141 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD29ED6C1E9E637B00094141 /* FirstViewController.swift */; };
-		BD29ED6F1E9E637B00094141 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD29ED6E1E9E637B00094141 /* SecondViewController.swift */; };
 		BD29ED721E9E637B00094141 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD29ED701E9E637B00094141 /* Main.storyboard */; };
 		BD29ED741E9E637B00094141 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD29ED731E9E637B00094141 /* Assets.xcassets */; };
 		BD29ED771E9E637B00094141 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD29ED751E9E637B00094141 /* LaunchScreen.storyboard */; };
+		BD29ED7F1E9E6BC600094141 /* landscapeTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD29ED7E1E9E6BC600094141 /* landscapeTableViewCell.swift */; };
+		BD29ED811E9E6C2900094141 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD29ED801E9E6C2900094141 /* TableViewController.swift */; };
+		BD29ED891E9E6DFB00094141 /* 永安老街.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = BD29ED821E9E6DFB00094141 /* 永安老街.jpeg */; };
+		BD29ED8A1E9E6DFB00094141 /* 多納部落.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = BD29ED831E9E6DFB00094141 /* 多納部落.jpeg */; };
+		BD29ED8B1E9E6DFB00094141 /* 忠烈祠.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = BD29ED841E9E6DFB00094141 /* 忠烈祠.jpeg */; };
+		BD29ED8C1E9E6DFB00094141 /* 前鎮之星.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = BD29ED851E9E6DFB00094141 /* 前鎮之星.jpeg */; };
+		BD29ED8D1E9E6DFB00094141 /* 高雄巨蛋.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = BD29ED861E9E6DFB00094141 /* 高雄巨蛋.jpeg */; };
+		BD29ED8E1E9E6DFB00094141 /* 高雄市立美術館.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = BD29ED871E9E6DFB00094141 /* 高雄市立美術館.jpeg */; };
+		BD29ED8F1E9E6DFB00094141 /* 愛河之星.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = BD29ED881E9E6DFB00094141 /* 愛河之星.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		BD29ED671E9E637B00094141 /* KaohsiungTravel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KaohsiungTravel.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BD29ED6A1E9E637B00094141 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		BD29ED6C1E9E637B00094141 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
-		BD29ED6E1E9E637B00094141 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		BD29ED711E9E637B00094141 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		BD29ED731E9E637B00094141 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BD29ED761E9E637B00094141 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BD29ED781E9E637B00094141 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BD29ED7E1E9E6BC600094141 /* landscapeTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = landscapeTableViewCell.swift; sourceTree = "<group>"; };
+		BD29ED801E9E6C2900094141 /* TableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
+		BD29ED821E9E6DFB00094141 /* 永安老街.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "永安老街.jpeg"; sourceTree = "<group>"; };
+		BD29ED831E9E6DFB00094141 /* 多納部落.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "多納部落.jpeg"; sourceTree = "<group>"; };
+		BD29ED841E9E6DFB00094141 /* 忠烈祠.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "忠烈祠.jpeg"; sourceTree = "<group>"; };
+		BD29ED851E9E6DFB00094141 /* 前鎮之星.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "前鎮之星.jpeg"; sourceTree = "<group>"; };
+		BD29ED861E9E6DFB00094141 /* 高雄巨蛋.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "高雄巨蛋.jpeg"; sourceTree = "<group>"; };
+		BD29ED871E9E6DFB00094141 /* 高雄市立美術館.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "高雄市立美術館.jpeg"; sourceTree = "<group>"; };
+		BD29ED881E9E6DFB00094141 /* 愛河之星.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "愛河之星.jpeg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +56,7 @@
 			children = (
 				BD29ED691E9E637B00094141 /* KaohsiungTravel */,
 				BD29ED681E9E637B00094141 /* Products */,
+				BD29ED911E9E6E1200094141 /* Pic */,
 			);
 			sourceTree = "<group>";
 		};
@@ -57,14 +72,28 @@
 			isa = PBXGroup;
 			children = (
 				BD29ED6A1E9E637B00094141 /* AppDelegate.swift */,
-				BD29ED6C1E9E637B00094141 /* FirstViewController.swift */,
-				BD29ED6E1E9E637B00094141 /* SecondViewController.swift */,
 				BD29ED701E9E637B00094141 /* Main.storyboard */,
 				BD29ED731E9E637B00094141 /* Assets.xcassets */,
 				BD29ED751E9E637B00094141 /* LaunchScreen.storyboard */,
 				BD29ED781E9E637B00094141 /* Info.plist */,
+				BD29ED801E9E6C2900094141 /* TableViewController.swift */,
+				BD29ED7E1E9E6BC600094141 /* landscapeTableViewCell.swift */,
 			);
 			path = KaohsiungTravel;
+			sourceTree = "<group>";
+		};
+		BD29ED911E9E6E1200094141 /* Pic */ = {
+			isa = PBXGroup;
+			children = (
+				BD29ED821E9E6DFB00094141 /* 永安老街.jpeg */,
+				BD29ED831E9E6DFB00094141 /* 多納部落.jpeg */,
+				BD29ED841E9E6DFB00094141 /* 忠烈祠.jpeg */,
+				BD29ED851E9E6DFB00094141 /* 前鎮之星.jpeg */,
+				BD29ED861E9E6DFB00094141 /* 高雄巨蛋.jpeg */,
+				BD29ED871E9E6DFB00094141 /* 高雄市立美術館.jpeg */,
+				BD29ED881E9E6DFB00094141 /* 愛河之星.jpeg */,
+			);
+			name = Pic;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -128,7 +157,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				BD29ED771E9E637B00094141 /* LaunchScreen.storyboard in Resources */,
+				BD29ED8F1E9E6DFB00094141 /* 愛河之星.jpeg in Resources */,
 				BD29ED741E9E637B00094141 /* Assets.xcassets in Resources */,
+				BD29ED8B1E9E6DFB00094141 /* 忠烈祠.jpeg in Resources */,
+				BD29ED891E9E6DFB00094141 /* 永安老街.jpeg in Resources */,
+				BD29ED8D1E9E6DFB00094141 /* 高雄巨蛋.jpeg in Resources */,
+				BD29ED8E1E9E6DFB00094141 /* 高雄市立美術館.jpeg in Resources */,
+				BD29ED8A1E9E6DFB00094141 /* 多納部落.jpeg in Resources */,
+				BD29ED8C1E9E6DFB00094141 /* 前鎮之星.jpeg in Resources */,
 				BD29ED721E9E637B00094141 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -140,9 +176,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BD29ED6F1E9E637B00094141 /* SecondViewController.swift in Sources */,
 				BD29ED6B1E9E637B00094141 /* AppDelegate.swift in Sources */,
-				BD29ED6D1E9E637B00094141 /* FirstViewController.swift in Sources */,
+				BD29ED811E9E6C2900094141 /* TableViewController.swift in Sources */,
+				BD29ED7F1E9E6BC600094141 /* landscapeTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -267,6 +303,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = EY2E9J2PR9;
 				INFOPLIST_FILE = KaohsiungTravel/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Lun.KaohsiungTravel;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -280,6 +317,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = EY2E9J2PR9;
 				INFOPLIST_FILE = KaohsiungTravel/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Lun.KaohsiungTravel;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -306,6 +344,7 @@
 				BD29ED7D1E9E637B00094141 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
